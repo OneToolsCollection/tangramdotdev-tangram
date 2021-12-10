@@ -3562,6 +3562,7 @@ dependencies = [
  "num",
  "pinwheel",
  "serde",
+ "serde_json",
  "serde_urlencoded",
  "sqlx",
  "sunfish 0.2.5",
